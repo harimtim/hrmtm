@@ -1,7 +1,7 @@
 # hrmtm.me - Portfolio Website
 
 Eine moderne, responsive Portfolio-Website, entwickelt mit Flask, HTML5, CSS3 und JavaScript.
-Öffentlich erreichbar unter: (hrmtm.me)[https://hrmtm.me/]
+Öffentlich erreichbar unter: [hrmtm.me](https://hrmtm.me/)
 
 ## 🚀 Features
 
